@@ -1,5 +1,5 @@
 import { Box, Card, CardContent, CardMedia, Icon, Typography } from '@mui/material'
-import { circleArrowIcon, lightCarIcon, nutIcon, squareArrowIcon } from '../assets/icons'
+import { circleArrowIcon, lightCarIcon, nutIcon, squareArrowIcon } from '../../public/assets/icons'
 import { dataCarProps } from '../features/types'
 
 type dataProps = {

@@ -1,12 +1,12 @@
 [
     {
         "href": "/settings",
-        "icon": "/src/assets/icons/settingsIcon.svg",
+        "icon": "/assets/icons/settingsIcon.svg",
         "title": "Settings"
     },
     {
         "href": "/logout",
-        "icon": "/src/assets/icons/signOutIcon.svg",
+        "icon": "/assets/icons/signOutIcon.svg",
         "title": "Logout"
     }
 ]

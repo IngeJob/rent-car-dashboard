@@ -1,8 +1,8 @@
 import { useGlobalContext } from '../context/AppContext';
 import { Box, Drawer, List, ListItem, ListItemButton, Link, Typography, ListItemIcon, useMediaQuery } from '@mui/material'
 import { Link as RouterLink } from 'react-router-dom';
-import logo from '../assets/logo/logo.svg'
-import logoName from '../assets/logo/Motiv..svg'
+import logo from '../../public/assets/logo/logo.svg'
+import logoName from '../../public/assets/logo/Motiv..svg'
 import slideBarItems from '../db/slideBarItems.json'
 import authItems from '../db/authItems.json'
 

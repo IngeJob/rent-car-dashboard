@@ -1,6 +1,6 @@
 import { AppBar, Avatar, Box, IconButton, Toolbar } from '@mui/material'
-import { menuIcon, notificationIcon } from '../assets/icons'
-import user1 from '../assets/users/user1.jpg'
+import { menuIcon, notificationIcon } from '../../public/assets/icons'
+import user1 from '../../public/assets/users/user1.jpg'
 import { Search } from './Search'
 
 type sidebarProps = {

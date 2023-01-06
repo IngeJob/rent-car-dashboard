@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { Box, Card, CardContent, CardMedia, Icon, IconButton, Typography } from '@mui/material'
-import { heartIcon, personIcon, redHeartIcon, squareArrowIcon } from '../assets/icons'
+import { heartIcon, personIcon, redHeartIcon, squareArrowIcon } from '../../public/assets/icons'
 import { dataBookingProps } from "../features/types"
 
 type dataProps = {

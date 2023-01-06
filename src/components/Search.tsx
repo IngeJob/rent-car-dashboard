@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { styled } from '@mui/material/styles'
 import InputBase from '@mui/material/InputBase'
-import { searchIcon } from '../assets/icons'
+import { searchIcon } from '../../public/assets/icons'
 import { Box, Divider } from '@mui/material'
 
 const SearchMui = styled('div')(({ theme }) => ({

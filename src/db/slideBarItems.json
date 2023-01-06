@@ -1,42 +1,42 @@
 [
     {
         "href": "/dashboard",
-        "icon": "/src/assets/icons/dashboardIcon.svg",
+        "icon": "/assets/icons/dashboardIcon.svg",
         "title": "Dashboard"
     },
     {
         "href": "/assets",
-        "icon": "/src/assets/icons/assetsIcon.svg",
+        "icon": "/assets/icons/assetsIcon.svg",
         "title": "Assets"
     },
     {
         "href": "/booking",
-        "icon": "/src/assets/icons/bookingIcon.svg",
+        "icon": "/assets/icons/bookingIcon.svg",
         "title": "Booking"
     },
     {
         "href": "/sellcars",
-        "icon": "/src/assets/icons/sellcarsIcon.svg",
+        "icon": "/assets/icons/sellCarsIcon.svg",
         "title": "Sell Cars"
     },
     {
         "href": "/buycars",
-        "icon": "/src/assets/icons/buyCarsIcon.svg",
+        "icon": "/assets/icons/buyCarsIcon.svg",
         "title": "Buy Cars"
     },
     {
         "href": "/services",
-        "icon": "/src/assets/icons/servicesIcon.svg",
+        "icon": "/assets/icons/servicesIcon.svg",
         "title": "Services"
     },
     {
         "href": "/calender",
-        "icon": "/src/assets/icons/calenderIcon.svg",
+        "icon": "/assets/icons/calenderIcon.svg",
         "title": "Calender"
     },
     {
         "href": "/messages",
-        "icon": "/src/assets/icons/messagesIcon.svg",
+        "icon": "/assets/icons/messagesIcon.svg",
         "title": "Messages"
     }
 ]

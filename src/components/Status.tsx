@@ -1,5 +1,5 @@
 import { Grid } from "@mui/material"
-import { lightIcon, goutIcon, tireIcon, vectorIcon } from "../assets/icons";
+import { lightIcon, goutIcon, tireIcon, vectorIcon } from "../../public/assets/icons";
 import { StatusCard } from "./StatusCard";
 import { dataStatusProps } from "../features/types";
 

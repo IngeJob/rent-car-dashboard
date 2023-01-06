@@ -2,7 +2,7 @@ import { useState } from "react"
 import { Box, IconButton, Typography } from "@mui/material"
 import { BookingList } from "../components/BookingList"
 import { DashboardLayout } from "../Layouts/DashboardLayout"
-import { dashboardIcon, dashboardWhiteIcon, filterIcon, filterWhiteIcon } from "../assets/icons"
+import { dashboardIcon, dashboardWhiteIcon, filterIcon, filterWhiteIcon } from "../../public/assets/icons"
 import DropDown from "../components/DropDown"
 
 export const BookingPage = () => {
