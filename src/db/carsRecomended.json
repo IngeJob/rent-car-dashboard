@@ -1,0 +1,26 @@
+[
+    {
+        "recommended": 64,
+        "title": "Mini Cooper",
+        "image": "/src/assets/cars/car1.png",
+        "value": 132,
+        "price": 32,
+        "colorBg": "#E1DFA4"
+    },
+    {
+        "recommended": 74,
+        "title": "Porsche 911 Carrera",
+        "image": "/src/assets/cars/car2.png",
+        "value": 130,
+        "price": 28,
+        "colorBg": "#E3ECF1"
+    },
+    {
+        "recommended": 74,
+        "title": "Porsche 911 Carrera",
+        "image": "/src/assets/cars/car3.png",
+        "value": 130,
+        "price": 28,
+        "colorBg": "#F4E3E5"
+    }
+]
