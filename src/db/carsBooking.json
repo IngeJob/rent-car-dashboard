@@ -2,63 +2,63 @@
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/black_audi.png",
+        "image": "../src/assets/cars/black_audi.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/mercedes.png",
+        "image": "../src/assets/cars/mercedes.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/white_audi.png",
+        "image": "../src/assets/cars/white_audi.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/blue_suzuki.png",
+        "image": "../src/assets/cars/blue_suzuki.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/gray_suzuki.png",
+        "image": "../src/assets/cars/gray_suzuki.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/toyota.png",
+        "image": "../src/assets/cars/toyota.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/black_audi.png",
+        "image": "../src/assets/cars/black_audi.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/mercedes.png",
+        "image": "../src/assets/cars/mercedes.png",
         "passengers": 4,
         "price": 400
     },
     {
         "name": "Porshe 718 Cayman S",
         "kind": "Coupe",
-        "image": "/src/assets/cars/white_audi.png",
+        "image": "../src/assets/cars/white_audi.png",
         "passengers": 4,
         "price": 400
     }
